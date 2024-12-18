@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that hasn't been imported correctly.  It might be a typo in the import statement or the component simply isn't installed in your project.  This often manifests as a runtime error, not a compilation error because the code might seem to parse initially.
